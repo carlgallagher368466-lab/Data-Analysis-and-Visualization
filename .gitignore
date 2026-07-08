@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Large/raw data
+data/*.csv
+data/*.zip
+data/*.rar
+data/predict-student-performance-from-game-play/
+predict-student-performance-from-game-play/
+*.rar
+*.zip
+
+# Local/generated files
+backup*/
+~$*
+*.tmp
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
